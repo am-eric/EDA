@@ -35,19 +35,29 @@ The dataset includes information on civil aviation accidents and selected incide
 
 ### Visualizations
 1. **Top Aircraft Makes and Models Involved in Accidents**
-   ![Top Aircraft Makes and Models Involved in Accidents](http://localhost:8888/files/img/make_model_accidents.png?_xsrf=2%7Cd69759a3%7C7242c20723fc4c158dbbacd7f5163d8b%7C1716274580)
+   ![Top Aircraft Makes and Models Involved in Accidents](img/make_model_accidents.png)
    - This bar chart shows the number of accidents for the top 10 aircraft makes and models.
    - Cessna and Piper are involved in the most accidents.
 
 2. **Flight Purpose Distribution by Make and Model**
-   ![Flight Purpose Distribution by Make and Model]img/make_model_accidents.png
+   ![Flight Purpose Distribution by Make and Model](img/flightpurpose_make_model.png)
    - This stacked bar chart displays the distribution of flight purposes for different makes and models.
    - Personal and instructional uses lead the flight purposes with the most accidents.
 
 3. **Aircraft Damage Distribution by Make and Model**
-   ![Aircraft Damage Distribution by Make and Model](https://via.placeholder.com/800x400?text=Aircraft+Damage+Distribution+by+Make+and+Model)
+   ![Aircraft Damage Distribution by Make and Model](img/damage_by_make_model.png)
    - This bar chart shows the distribution of aircraft damage by make and model.
    - The Cessna models often suffer substantial damage.
+4. **Engine Type Involved in Accidents**
+   ![Engine Type Involved in Accidents](img/Engine_accidents.png)
+   - This bar chart shows the distribution of aircraft damage by make and model.
+   - The Cessna models often suffer substantial damage.
+5. **Yearly Distribution of Accidents**
+   ![Yearly Distribution of Accidents](img/accidents_yearly.png)
+   - There's a dramatic decrease of accidents across the years.
+
+Access the dashboard visualization [here](https://public.tableau.com/app/profile/eric.muema/viz/project-wb-06-2024-EM/ACCIDENTSANALYSIS?publish=yes) 
+
 
 ## Conclusion
 ### Summary of Conclusions
@@ -63,6 +73,7 @@ The dataset includes information on civil aviation accidents and selected incide
 ### Contact Information
 For further inquiries, please contact:
 - **Name:** Eric Muema
-- **Email:** [Your Email]
-- **Phone:** [Your Phone Number]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [ericmuema02@gmail.com]
+- **Phone:** [0711126595]
+- **LinkedIn:** [Eric Muema](https://www.linkedin.com/in/eric-muema-730103217/)
+  
