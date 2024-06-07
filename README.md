@@ -35,12 +35,12 @@ The dataset includes information on civil aviation accidents and selected incide
 
 ### Visualizations
 1. **Top Aircraft Makes and Models Involved in Accidents**
-   ![Top Aircraft Makes and Models Involved in Accidents](http://localhost:8888/files/img/make_model_accidents.png?_xsrf=2%7Cd69759a3%7C7242c20723fc4c158dbbacd7f5163d8b%7C1716274580)
+   ![Top Aircraft Makes and Models Involved in Accidents]()
    - This bar chart shows the number of accidents for the top 10 aircraft makes and models.
    - Cessna and Piper are involved in the most accidents.
 
 2. **Flight Purpose Distribution by Make and Model**
-   ![Flight Purpose Distribution by Make and Model]img/make_model_accidents.png
+   ![Flight Purpose Distribution by Make and Model](img/make_model_accidents.png)
    - This stacked bar chart displays the distribution of flight purposes for different makes and models.
    - Personal and instructional uses lead the flight purposes with the most accidents.
 
